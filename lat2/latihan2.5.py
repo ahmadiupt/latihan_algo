@@ -1,6 +1,7 @@
 import sys
 from PyQt5.QtWidgets import *
 
+# Perubahan dasar yang sekarang
 # Dark theme stylesheet
 DARK_STYLE = """
 QMainWindow {
